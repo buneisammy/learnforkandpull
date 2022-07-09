@@ -1,3 +1,4 @@
 hello learning pull and fork
 
-My Edit....
+Created the file sample.txt
+This is for the fork project
